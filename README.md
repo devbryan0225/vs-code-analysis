@@ -1,6 +1,8 @@
 # vs-code-analysis
 Based on Pluralsight course : Code Analysis in Visual Studio 2019
 
+# Note
+- ruleset will soon be replaced with .editorconfig
 
 ## code analysis
 - remove unneccessary usings
