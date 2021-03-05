@@ -5,7 +5,7 @@ Based on Pluralsight course : Code Analysis in Visual Studio 2019
 - ruleset will soon be replaced with .editorconfig
 
 ## .editorconfig
-- dotnet_code_quality:api_surface
+- dotnet_code_quality:api_surface, ex. public private
 - https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-quality-rule-options
 
 ## code analysis
