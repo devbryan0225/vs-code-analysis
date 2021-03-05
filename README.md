@@ -4,6 +4,10 @@ Based on Pluralsight course : Code Analysis in Visual Studio 2019
 # Note
 - ruleset will soon be replaced with .editorconfig
 
+## .editorconfig
+- dotnet_code_quality:api_surface
+- https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-quality-rule-options
+
 ## code analysis
 - remove unneccessary usings
 - fix method names
